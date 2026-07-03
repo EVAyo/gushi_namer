@@ -64,3 +64,10 @@ pnpm build
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=holynova/gushi_namer&type=Date)](https://www.star-history.com/#holynova/gushi_namer&Date)
+
+## Demo 分享卡片
+
+[![古诗文起名 - 翻阅经典，遇见好名字 Demo 分享卡片：包含项目介绍与二维码](assets/demo-share-card.png)](https://holynova.github.io/gushi_namer/)
+
+移动端友好的在线 Demo：Chinese baby name generator from classical poems and ancient texts 扫码或点击卡片打开：<https://holynova.github.io/gushi_namer/>
+
